@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Fromaster2
+- 👀 I’m interested in ...Mechanical design as a hobby
+- I am retired and looki ng for something to keep me busy- 
+- 🌱 I’m currently learning ... I am trying to learn freecad on my own 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---Not too good at this! 
+Fromaster2/Fromaster2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
